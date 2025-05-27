@@ -28,7 +28,7 @@ git clone <https://github.com/caiogoia123/projeto_final_marvel.git>
 
 - Execute o projeto no ambiente Google Colab caso não queira baixar as dependências
 - O notebook está configurado para usar o userdata do Google Colab. Adapte conforme seu ambiente
-- Extraia o banco do zip "marvel_characters_teste.zip" e faça upload dele no Colab caso não queira criar o banco novamente
+- Extraia o banco do zip "banco_marvel.zip" e faça upload dele no Colab caso não queira criar o banco novamente
 
 ## Resultados esperados
 
