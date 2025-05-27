@@ -3,16 +3,20 @@ Este repositório contém um projeto colaborativo focado na extração, tratamen
 
 ## Pré-requisitos Essenciais
 Python: Versão 3.7 ou superior.
+
 Ambiente Jupyter: Jupyter Notebook ou JupyterLab para executar o arquivo .ipynb.
+
 Chaves da API da Marvel: É indispensável possuir uma chave pública e uma chave privada válidas, obtidas no Portal de  [Desenvolvedores da Marvel](https://developer.marvel.com/account)
+
 Bibliotecas Python:
-requests
-pandas
-numpy
-matplotlib
-seaborn
-jupyterlab (ou notebook)
-google-colab (esta é específica se você estiver executando o notebook no ambiente Google Colab para gerenciar as chaves da API através do userdata).
+
+- requests
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- jupyterlab (ou notebook)
+- google-colab (esta é específica se você estiver executando o notebook no ambiente Google Colab para gerenciar as chaves da API através do userdata).
 
 ## Como executar o projeto
 
