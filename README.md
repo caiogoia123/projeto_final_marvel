@@ -40,5 +40,5 @@ git clone <https://github.com/caiogoia123/projeto_final_marvel.git>
 Este projeto permite aplicar conhecimentos de Python, APIs e armazenamento de 
 dados em um cenário prático, simulando desafios do mercado.
 
-# Datagrama do Banco de Dados Atual:
-<img src="https://github.com/caiogoia123/projeto_final_marvel/blob/main/Datagrama_Banco_Dados.jpg" alt="Datagrama do Banco de Dados">
+# Diagrama do Banco de Dados Atual:
+<img src="https://github.com/caiogoia123/projeto_final_marvel/blob/main/Datagrama_Banco_Dados.jpg" alt="Diagrama do Banco de Dados">
